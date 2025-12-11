@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
-mx: mercerclan-com.m-v1.mx.microsoft
+mode: enforce
+mx: *.mx.microsoft
 max_age: 604800
